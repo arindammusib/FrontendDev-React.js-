@@ -1,0 +1,28 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "\"React Dev \"",
+  "scripts": {
+    "start": "index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(github.com/arindammusib/FrontendDev-React.js-)"
+  },
+  "keywords": [
+    "\"react\""
+  ],
+  "author": "Arindam Musib",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "main": "App.js"
+}
